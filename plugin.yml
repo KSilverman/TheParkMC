@@ -1,0 +1,8 @@
+name: TheParkMC
+main: me.TheParkMC.TheParkMC.TheParkMC
+version: 1.0
+description: >
+              My TheParkMC plugin. 
+commands:
+     override: 
+       description: Starts Override!
